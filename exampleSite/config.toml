@@ -1,4 +1,4 @@
-baseurl                  = "https://relaxed-kowalevski-b43ade.netlify.app"           # Your domain name
+baseurl                  = "https://relaxed-kowalevski-b43ade.netlify.app/"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
