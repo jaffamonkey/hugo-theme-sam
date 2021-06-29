@@ -1,4 +1,4 @@
-baseurl                  = "https://relaxed-kowalevski-b43ade.netlify.app/"           # Your domain name
+baseurl                  = "https://relaxed-kowalevski-b43ade.netlify.app"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -29,19 +29,19 @@ pygmentsCodefences       = true
     overlay = "rgba(0, 0, 0, 0.4)" # optional
 
 [[params.mainMenu]]
-    link = "posts"
+    link = "/posts"
     text = "posts"
 
 [[params.mainMenu]]
-    link = "gallery"
+    link = "/gallery"
     text = "gallery"
 
 [[params.mainMenu]]
-    link = "portfolio"
+    link = "/portfolio"
     text = "portfolio"
 
 [[params.mainMenu]]
-    link = "about"
+    link = "/about"
     text = "who is sam?"
 
 [imaging]
