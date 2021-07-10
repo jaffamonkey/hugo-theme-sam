@@ -46,7 +46,7 @@ pygmentsCodefences       = true
     
 [[params.mainMenu]]
     link = "/quality-engineering"
-    text = "qualityengineering"
+    text = "quality engineering"
     
 [imaging]
     quality = 75
