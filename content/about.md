@@ -10,5 +10,3 @@ images:
 > I have provided Quality assurance and Test engineering services to over 57 companies since 1997, across range of industries.
 
 ![Clients](/clients.png)
-
-![Logo](/logo.png)
