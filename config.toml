@@ -2,9 +2,10 @@ ebaseurl                  = "https://relaxed-kowalevski-b43ade.netlify.app"     
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "jaffamonkey"
 theme                    = "sam"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+# pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsStyle            = "vim"
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
@@ -13,7 +14,7 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
-    footerText           = "Call me Sam, a theme for Hugo."
+    footerText           = "jaffamonkey 2021"
 
 # Metadata for Open Graph and Twitter
     description          = "A new Hugo site."               # Max 160 characters show in search results
