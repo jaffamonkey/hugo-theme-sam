@@ -43,6 +43,10 @@ pygmentsCodefences       = true
 [[params.mainMenu]]
     link = "/about"
     text = "readme"
-
+    
+[[params.mainMenu]]
+    link = "/quality-engineering"
+    text = "qualityengineering"
+    
 [imaging]
     quality = 75
