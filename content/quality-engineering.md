@@ -2,8 +2,6 @@
 title: "Quality engineering"
 date: 2018-02-13T13:42:49-05:00
 ---
-# quality assurance and test engineering
-
 ## Test engineering
 
 _Less is more_
