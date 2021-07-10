@@ -17,9 +17,9 @@ pygmentsCodefences       = true
     footerText           = "jaffamonkey 2021"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Call me Sam"
+    description          = "mobile and web app quality engineering"               # Max 160 characters show in search results
+    images               = ["logo.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "jaffamonkey"
     # rss                = ""
 
 [[params.videoBackground.sources]]
