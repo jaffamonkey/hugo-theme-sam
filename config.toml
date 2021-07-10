@@ -42,7 +42,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = readme"
+    text = "readme"
 
 [imaging]
     quality = 75
