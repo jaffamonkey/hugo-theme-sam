@@ -40,17 +40,17 @@ pygmentsCodefences       = true
     link = "/quality-assurance"
     text = "quality assurance"
 
-[[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+# [[params.mainMenu]]
+#    link = "/posts"
+#    text = "posts"
 
-[[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
+# [[params.mainMenu]]
+#    link = "/gallery"
+#    text = "gallery"
 
-[[params.mainMenu]]
-    link = "/portfolio"
-    text = "portfolio"
+# [[params.mainMenu]]
+#    link = "/portfolio"
+#    text = "portfolio"
     
 [imaging]
     quality = 75
