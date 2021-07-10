@@ -1,8 +1,6 @@
 ---
 title: "About"
 date: 2018-02-13T13:42:49-05:00
-images:
-    - clients.png
 ---
 
  I have never heard of you*
