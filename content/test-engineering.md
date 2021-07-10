@@ -8,8 +8,8 @@ Sometimes investing is a feature-rich test framework is a good idea, but startin
 ## _Start non-functional tests early_
 You don’t need to run a heavy load test to get useful feedback. Security testing is an essential not an option, and investing in code analysis tool will help maintain  performance.
 
-## _Start non-functional tests early_
-Web accessibility checks should be covered by default (any excuses are poor excuses). 
+## _Accessibility_
+Web or mobile app accessibility checks should be covered by default (any excuses are poor excuses). 
 
 ## _Exploratory testing_
 Exploratory testing is a mindset that can be applied to automation. Whilst test automation is primarily testing for regressions (as well as demontsrating progress), non-functional testing has more scope for this. For example load testing involves defining
