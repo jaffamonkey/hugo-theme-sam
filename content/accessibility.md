@@ -11,6 +11,7 @@ images:
 > Accessibility involves a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities. 
 
 [Web App Accessibility Standards (WCAG 2.1)](https://www.w3.org/TR/WCAG21/)
+
 [Mobile App Accessibility Standards (WCAG 2.0)](https://www.w3.org/WAI/standards-guidelines/mobile/)
 
 Both [Apple](https://www.apple.com/uk/accessibility/vision) and [Android](https://developer.android.com/guide/topics/ui/accessibility) is very proactive with tools and development standards of their own, based on w3 web app Accessbility standards, but with additional attention to mobile-specific challenges.
