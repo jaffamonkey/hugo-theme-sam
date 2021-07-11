@@ -6,7 +6,7 @@ images:
 ---
 > Accessibility is commonly wrapped up in other testing activities, but it is worthy of focus effort.
 
-A lot can be done to mitigate accessibility errors, by investing time at design phase and integrate checks in the CI pipeline.
+A lot can be done to mitigate accessibility errors, by investing time at design phase and integrating checks in the CI pipeline.
 
 ### WCAG
 
@@ -24,3 +24,5 @@ While some apps will sail through Level AA, some may struggle - for example, an 
 - Verify zoom in up to 300% without the text spilling off the screen
 - Run code-level checking tool
 - Navigate most of the app using speech recognition software
+
+_[Contact me](mailto:paullittlebury@gmail.com) for further discussion of how I could help. No commitment. You may be interested in getting a comprehensive review, or assistance in putting Accessiblity in a [shift left state], in the SDLC._
