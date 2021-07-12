@@ -12,3 +12,7 @@ An embedded `gist` using shortcode:
 Pa11y Command Line Script:
 
 {{< gist jaffamonkey a08b497ff85a41fd7682cacdff1f7292 "img.html" >}}
+
+Pa11y Command Line Script:
+
+{{< gist jaffamonkey c6e8bb5531bc92754f4171b6cd0156d424b2b02b "img.html" >}}
