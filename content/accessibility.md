@@ -37,4 +37,4 @@ Level AA will be more demanding check of the app, but striving for this will imp
 - Run code-level checking tool
 - Navigate most of the app using speech recognition software
 
-_[Contact me](mailto:paullittlebury@gmail.com) for further discussion of how I could help. No commitment. You may be interested in getting a comprehensive review, or assistance in putting Accessiblity testing in a [shift left](https://en.wikipedia.org/wiki/Shift-left_testing) state, and inegrated in the SDLC._
+[Contact me](mailto:paullittlebury@gmail.com) for further discussion about how I could help. No commitment. You may be interested in getting a comprehensive review, or assistance in putting Accessiblity testing in a [shift left](https://en.wikipedia.org/wiki/Shift-left_testing) state, and inegrated in the SDLC.
