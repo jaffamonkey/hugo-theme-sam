@@ -25,9 +25,9 @@ Minimum level – without addressing these items, barriers exist that cannot be 
 - Navigate the app with keyboard-only
 
 ## Level AA
-More accessible – With the minimum level of support, some barriers will still exist which impact certain groups of users.  The criteria at this level establish a level of accessibility which should work with most assistive technology on desktop and mobile devices. Addressing Level AA criteria may impact the look of a page or affect site logic to a greater extent.
+More accessible – With the minimum level of support, some barriers will still exist which impact certain groups of users.  The criteria at this level establish a level of accessibility which should work with most assistive technology on desktop and mobile devices.
 
-While some apps will sail through Level AA, some may struggle - for example, an app that depends on sight to annotate an image. A first important step is to realise Acessibility is an evolving improvements exercise.  Just because your app passes in Sprint 5, it doesn't mean it will pass in Sprint 7. So treat an audit as a review, with errors and suggestions provides - most fails are simple fixes and in many cases duplicated. Document this (honestly) in an accessibility statement, that you can keep updated, as your app progresses and improves.
+While some apps will sail through Level AA, some may struggle - for example, an app that depends on sight to annotate an image. A first important step is to realise Acessibility is an evolving improvements exercise.  Just because your app passes in Sprint 5, it doesn't mean it will pass in Sprint 7. So treat an audit as a review, with errors and suggestions provides. Document this (honestly) in an accessibility statement, that you can keep updated, as your app progresses and improves.
 
 ### Standard Level AA Checks
 Level AA will be more demanding check of the app, but striving for this will improve not only Accessibility of the app, but the quality.
