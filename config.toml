@@ -45,9 +45,9 @@ pygmentsCodefences       = true
     link = "/accessibility"
     text = "accessibility"
 
-# [[params.mainMenu]]
-#    link = "/posts"
-#    text = "posts"
+[[params.mainMenu]]
+    link = "/posts"
+    text = "posts"
 
 # [[params.mainMenu]]
 #    link = "/gallery"
