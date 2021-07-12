@@ -4,7 +4,7 @@ date: 2018-02-13T13:42:49-05:00
 images:
     - /clients.png
 ---
-> Accessibility is commonly wrapped up in other testing activities, but it is worthy of focus effort. A lot can be done to mitigate accessibility errors, by investing time at design phase and integrating checks in the CI pipeline.
+Accessibility is commonly wrapped up in other testing activities, but it is worthy of focus effort. A lot can be done to mitigate accessibility errors, by investing time at design phase and integrating checks in the CI pipeline.
 
 # WCAG
 
