@@ -3,9 +3,9 @@ languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "jaffamonkey"
-theme                    = "fruity"
+theme                    = "sam"
 # pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
-pygmentsStyle            = "vim"
+pygmentsStyle            = "fruity"
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
