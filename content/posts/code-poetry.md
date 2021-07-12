@@ -51,4 +51,4 @@ console.log('eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 An embedded gist using shortcode:
 
-{{< gist spf13 7896402 "img.html" >}}
+{{< gist jaffamonkey 5b4b24bf673c555a038f768d86e11d78 "img.html" >}}
