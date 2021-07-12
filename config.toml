@@ -37,9 +37,9 @@ pygmentsCodefences       = true
     link = "/test-engineering"
     text = "test engineering"
     
-# [[params.mainMenu]]
-#    link = "/quality-assurance"
-#    text = "quality assurance"
+[[params.mainMenu]]
+    link = "/quality-assurance"
+    text = "quality assurance"
     
 [[params.mainMenu]]
     link = "/accessibility"
