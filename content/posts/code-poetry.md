@@ -51,4 +51,4 @@ console.log('eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
 An embedded gist using shortcode:
 
-{{< gist jaffamonkey 5b4b24bf673c555a038f768d86e11d78 >}}
+{{< gist jaffamonkey 2c28f45402aa17a08762b46fa51a66b0d9414ed7 "img.html" >}}
