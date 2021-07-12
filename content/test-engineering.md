@@ -13,4 +13,4 @@ Web or mobile app accessibility checks should be covered by default (any excuses
 
 > **Importantly, all tests of all kinds should evolve constantly, or they are most likely useless**
 
-And remember .... developers is our friends_
+_And remember .... developers are our friends_
